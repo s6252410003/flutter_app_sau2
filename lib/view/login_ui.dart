@@ -328,7 +328,7 @@ class _LoginUIState extends State<LoginUI> {
                   FontAwesomeIcons.apple,
                 ),
                 label: Text(
-                  'Apple',
+                  'Apple ID',
                   style: TextStyle(
                     fontFamily: 'Kanit',
                   ),
